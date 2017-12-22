@@ -1,1 +1,8 @@
-# sample_code adding some changes
+# sample_code
+
+rest_wk_test.py - sample REST API integration
+issues.py - sample integration with JIRA
+
+
+
+
